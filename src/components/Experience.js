@@ -43,7 +43,7 @@ const Experience = () => {
   return (
     <div className="my-64">
       <h2 className="font-bold text-8xl mb-32 w-full text-center md:text-6xl xs:text-4xl md:mb-16">
-        Experience
+        Pengalaman
       </h2>
 
       <div ref={ref} className="w-[75%] mx-auto relative lg:w-[90%] md:w-full">
@@ -57,7 +57,7 @@ const Experience = () => {
             position="IT Support & Backend Developer"
             company="PT Alita Praya Mitra"
             companyLink="www.alita.id"
-            time="Okt 2023-Present"
+            time="September 2023 - Sekarang"
             address="Jakarta Selatan, Indonesia"
             work="Worked on a team responsible for developing new features for Google's 
             search engine, including improving the accuracy and relevance of search results and 
