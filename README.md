@@ -2,9 +2,6 @@
 
 This repository contains starter code for Portfolio website created using NextJs. <br />
 
-For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
-
 ### Images of The Portfolio Website:
 
 ![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
